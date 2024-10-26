@@ -7,6 +7,8 @@
 Fig.1 Some images from VC-Clothes-W&R
 </div>
 
+dataset : https://pan.baidu.com/s/1TSOGrb4ZTcBiS_6ztAkEJA?pwd=ct9f 
+ 
 [1] Y. Huang, J. Xu, Q. Wu, Y. Zhong, P. Zhang, Z. Zhang, Beyond scalar neuron: Adopting
 vector-neuron capsules for long-term person re-identification, IEEE TCSVT 30 (2019)
 3459–3471.
